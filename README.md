@@ -46,16 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyanshushah&theme=dracula&hide_border=true" alt="preyanshushah" />
 </div>
 
-## 🏆 Projects & Contributions
 
-<div align="center">
-  <a href="https://github.com/preyanshushah/flutter-ecommerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=flutter-ecommerce-app&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/preyanshushah/net-api-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=net-api-backend&theme=dracula&hide_border=true" />
-  </a>
-</div>
 
 <details>
   <summary><b>View More Projects</b></summary>
