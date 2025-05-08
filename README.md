@@ -49,11 +49,11 @@
 ## 🏆 Projects & Contributions
 
 <div align="center">
-  <a href="https://github.com/preyanshushah?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=your-repo-name&theme=dracula&hide_border=true" />
+  <a href="https://github.com/preyanshushah/flutter-ecommerce-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=flutter-ecommerce-app&theme=dracula&hide_border=true" />
   </a>
-  <a href="https://github.com/preyanshushah?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=your-second-repo&theme=dracula&hide_border=true" />
+  <a href="https://github.com/preyanshushah/net-api-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=preyanshushah&repo=net-api-backend&theme=dracula&hide_border=true" />
   </a>
 </div>
 
@@ -66,7 +66,6 @@
     <li>⭐ <b>.NET API Backend</b> - Robust RESTful API with authentication and authorization</li>
     <li>⭐ <b>Django Web Application</b> - Content management system with custom features</li>
   </ul>
-  <i>Replace with your actual projects or customize as needed</i>
 </details>
 
 ## 🤝 Collaboration Opportunities
@@ -103,5 +102,3 @@ I'm always open to collaborating on interesting projects! Feel free to reach out
   .NET         █▒░░░░░░░░░░░░░░░░░   10.12 % 
   Django       █▒░░░░░░░░░░░░░░░░░   08.44 % 
   Python       █░░░░░░░░░░░░░░░░░░   05.60 % 
-  ```
-</div>
